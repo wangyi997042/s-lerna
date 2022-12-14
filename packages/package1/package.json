@@ -1,0 +1,26 @@
+{
+  "name": "package1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "iyb-wangyue <wangyue@iyunbao.com>",
+  "homepage": "https://github.com/wangyi997042/s-lerna#readme",
+  "license": "ISC",
+  "main": "lib/package1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyi997042/s-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wangyi997042/s-lerna/issues"
+  }
+}
